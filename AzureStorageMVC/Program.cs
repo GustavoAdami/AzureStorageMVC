@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace Lab5
+namespace AzureStorageMvc
 {
     public class Program
     {

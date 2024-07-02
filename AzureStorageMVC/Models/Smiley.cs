@@ -11,13 +11,13 @@ namespace Models
 {
     public class Smiley
     {
-        public string FileName
+        public required string FileName
         {
             get;
             set;
         }
 
-        public string Url
+        public required string Url
         {
             get;
             set;
