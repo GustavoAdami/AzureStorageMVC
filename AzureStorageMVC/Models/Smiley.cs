@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Models
+namespace AzureStorageMVC.Models
 {
     public class Smiley
     {
